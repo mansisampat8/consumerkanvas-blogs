@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The #1 Mistake Indian Startups Make With PMF (And How to Fix It)"
 date: 2025-09-22
 author: "Consumer Kanvas"
